@@ -11,10 +11,11 @@ Cyclistic bikes would like to convert more of their casual users into members in
 
 ## Methodology
 
-1. Complete business statement sheet.
-2. Download dataset (in CSV) from Divvy database.
-3. Use Excel to clean, transform and sort dataset.
-4. Build a dashboard using Tableau that visualises the different ways casuals/members use the bikeshare service.
+1. Go through business brief.
+2. Complete business statement sheet.
+3. Download dataset (in CSV) from Divvy database.
+4. Use Excel to clean, transform and sort dataset.
+5. Build a dashboard using Tableau that visualises the different ways casuals/members use the bikeshare service.
 
 ## Skills 
 
