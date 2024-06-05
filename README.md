@@ -1,17 +1,19 @@
-# Divvy Bike Share January 24 Analysis
+# Cyclistic Bike Share January 24 Analysis
+
+## Background
+This is the second option for capstone project from Google DA certifications I completed last year. I decided to revisit the course and complete this optional project to add to my portfolio.
 
 ## Executive Summary
 Using Excel and Tableau, I pulled bike rental records from the database and created a dashboard to compare the different the rental habits between two customer groups: members and annual. After uncovering the main differences between the two user groups, I recommend the marketing department the focus areas for their marketing strategies.
 
 ## Business Problem:
-Divvy bikes would like to convert more of their casual users into members in effort to increase revenue. The marketing department would like to formulate new marketing strategies, but they lack insights on what makes for effective marketing.
+Cyclistic bikes would like to convert more of their casual users into members in effort to increase revenue. The marketing department would like to formulate new marketing strategies, but they lack insights on what makes for effective marketing.
 
 ## Methodology
 
 1. Download dataset (in CSV) from Divvy database.
-2. Load CSV to pgAdmin4 for ETL.
-3. SQL query that cleans, transforms and combines data from the CSV files.
-5. Build a dashboard using Tableau that visualises the different ways casuals/members use th bikeshare service.
+2. Use Excel to clean, transform and sort dataset.
+3. Build a dashboard using Tableau that visualises the different ways casuals/members use the bikeshare service.
 
 ## Skills 
 
